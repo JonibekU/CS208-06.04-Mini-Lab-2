@@ -1,4 +1,4 @@
-# CS208-07.04-Mini-Lab-2
+# CS208-06.04-Mini-Lab-2
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=1117900820&ref=master&geo=UsWest)
 
